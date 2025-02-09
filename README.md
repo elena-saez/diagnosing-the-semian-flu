@@ -1,2 +1,2 @@
 # diagnosing-the-semian-flu
-building a model to predict if a patient has the flu or not using logistic regression
+building a logistic regression model to predict if a patient has the flu or not using pandas and sklearn
